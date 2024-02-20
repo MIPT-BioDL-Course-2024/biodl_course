@@ -9,10 +9,10 @@ WIP
 	- **Word2Vec**: Continuous Bag-of-Words and Skip-Gram. TF-IDF. ELMo
 	- Revisiting transformers: Encoders vs Decoders vs Full Transformers. BERT family, GPTs, T5.  
 	- Vector Search. Algorithms for fast nearest neighbours search.
-- Block 3. Images
+- Block 2. Images
 	- Visual transformers. Self-supervision on images. SimCLR, DINO, V-JEPA
 	- Segment Anything models.
-- Block 2. Graphs
+- Block 3. Graphs
 	- Classical graph methods. Centrality, clustering, DeepWalk, Node2Vec and Matrix decomposition.
 	- Graph Neural Networks. **GCN**, GAT. Heterogeneous Graphs, a bit on Knowledge Graphs, RGCN.
 	- Proteins. GNN in 3D, equivariance in deep learning. **AlphaFold 2**, ProteinMPNN.
